@@ -1,0 +1,142 @@
+
+.navbar.bg-body-tertiary {
+  background-color: #f2f3f400 !important;
+  font-family: 'Open Sans', sans-serif;  
+}
+
+
+body{
+  background: #f2f3f4;
+}
+
+.navbar-brand {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+
+.navbar-brand img {
+  padding-bottom: 5px;
+  padding-right: 10px;
+}
+
+
+
+/* nav bar text white */
+.navbar-nav .nav-link {
+  text-align: center;
+  font-weight: 425;
+  
+}
+/* nav bar text white */
+
+
+
+/* navigation bar alignment */
+.navbar-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-left: -60px;
+}
+
+.navbar-nav .nav-link {
+  text-align: center;
+}
+
+/* navigation bar alignment */
+
+
+
+
+/* code for searchbar */
+
+.input-group {
+  width: 40%;
+  margin: 0 auto;
+  margin-left: -20%;
+  text-align: center;
+}
+
+.input-group {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+} */
+
+/* code for searchbar */
+
+
+
+
+/* code for button */
+.input-group {
+  width: 40%;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+}
+
+#button-addon2 {
+  width: 120px;
+}
+ /* code for button  */
+
+
+
+
+ /* code for illustration */
+
+.image-container {
+  display: flex;
+  justify-content: flex-end; /* Align to the right */
+  align-items: center; /* Vertically center */
+  height: 100%; /* Set the container height */
+  width: 50%; /* Set the container width */
+  margin-left: auto; /* Add margin to move to the right */
+}
+
+.image-container img {
+  max-height: 100%; /* Set the maximum height */
+  max-width: 100%; /* Set the maximum width */
+}
+/* code for illustration */
+
+
+/* chatbot header  */
+#fitbot {
+  position: absolute;
+  top: 37%;
+  left: 25%;
+  transform: translateX(-50%);
+}
+
+
+#fitbot h1 {
+  font-size: 68px;
+  font-weight: bold;
+  margin: 0;
+}
+
+#fitbot p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 35px;
+  margin: 0;
+}
+
+
+
+
+/* chatbot header */
