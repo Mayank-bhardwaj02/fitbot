@@ -1,2 +1,2 @@
 # fitbot
-A Ai dietician project
+An Ai dietician project
